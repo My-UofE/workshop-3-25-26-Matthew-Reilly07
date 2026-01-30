@@ -8,10 +8,10 @@ public class DemoIncrement {
         int x = 3;
         int y = ++x + 5;
 
-        //a = 8
-        //b = 3
-        //x = 8
-        //y = 8
+        //a = 4
+        //b = 8
+        //x = 4
+        //y = 9
 
 
         System.out.print("a: " + a);
